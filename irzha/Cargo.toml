@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "irzha_proc_macro",
+    "examples"
+]

@@ -1,0 +1,10 @@
+[package]
+name = "odinu"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = "0.16.1"
+irzha = { version = "0.1.0", path = "irzha/irzha_proc_macro"}
+relm = "0.24.1"
+relm-derive = "0.24.0"
